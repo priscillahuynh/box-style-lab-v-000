@@ -41,8 +41,9 @@ img {
 }
 
 .dubious {
-  border: 1px solid #dd4444;
-  box-shadow:  -1px 1px #dd4444, -2px 2px #dd4444, -3px 3px #dd4444, -4px 4px #dd4444, -5px 5px #dd4444;
+  border: 1px solid #aa2222;
+  box-shadow: -1px 1px #aa2222, -2px 2px #aa2222, -3px 3px #aa2222, -4px 4px #aa2222, -5px 5px #aa2222;
+
   background-color: #dd4444;
 }
 
