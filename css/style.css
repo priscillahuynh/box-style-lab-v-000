@@ -68,7 +68,8 @@ h4.dubious {
   background: linear-gradient(
   to right,
   700,
-  #a00);
+  #a00
+  );
 }
 
 .column {
